@@ -1,4 +1,5 @@
 Regex Tutorial on Email
+
 Certain expressions can be used for patterns of characters within a string.  You can also find and replace a character or sequence of characters within a string. They are also frequently used to validate input. This regex matches character information for valid e-mail addresses.
 
 Summary
